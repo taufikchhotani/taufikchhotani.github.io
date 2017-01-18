@@ -7,21 +7,10 @@ body {
   width: 960px;
   margin: 20px auto 20px auto;
 }
-p {
-  colord:red;
-  text-align:center;
+.header {
+  Color:red;
+  font-family: crusive;
 }
-h1 {
-color: red;
-text-align: middle-center;
-font-family: cursive;
-}
-h4 {
-  color: navy;
-}
-#summary {
-    color: navy;
-}
-.skillsandhobbies {
-  color: red;
+#first {
+  background: yellow;
 }
